@@ -115,17 +115,13 @@ pub const BAL_ARGE: Team = Team {
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=balarge&show_icons=true&bg_color=120422&title_color=FEC214&icon_color=FEC214&text_color=e9e1f2&border_color=2E0A52&count_private=true" alt="GitHub İstatistikleri">
+      <img src="https://github-readme-stats.vercel.app/api?username=balarge&show_icons=true&custom_title=BAL+AR-GE+%C4%B0statistikleri&bg_color=120422&title_color=FEC214&icon_color=FEC214&text_color=e9e1f2&border_color=2E0A52&count_private=true" alt="GitHub İstatistikleri">
     </td>
     <td>
       <img src="https://streak-stats.demolab.com/?user=balarge&theme=github-dark-blue&border=2E0A52&stroke=FEC214&ring=FEC214&fire=FEC214&currStreakLabel=FEC214&sideLabels=FEC214&currStreakNum=e9e1f2&sideNums=e9e1f2&dates=b8a9cc&background=120422" alt="Streak">
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=balarge&theme=github-dark&color=FEC214&line=FEC214&point=ffffff&area_color=FEC214&area=true&hide_border=true&bg_color=120422" alt="Aktivite Grafiği" width="100%">
-</p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/balarge/balarge/main/divider.svg" width="100%" alt=""></p>
 
