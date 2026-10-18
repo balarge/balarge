@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/balarge/balarge/main/assets/banner.svg" alt="BAL AR-GE - Batman Anadolu Lisesi Araştırma ve Geliştirme Ekibi" width="100%">
+  <img src="https://raw.githubusercontent.com/balarge/balarge/main/banner.svg" alt="BAL AR-GE - Batman Anadolu Lisesi Araştırma ve Geliştirme Ekibi" width="100%">
 </p>
 
 <p align="center">
@@ -13,10 +13,10 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/balarge/balarge/main/assets/metrics.svg" width="100%" alt="BAL AR-GE rakamlarla">
+  <img src="https://raw.githubusercontent.com/balarge/balarge/main/metrics.svg" width="100%" alt="BAL AR-GE rakamlarla">
 </p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/balarge/balarge/main/assets/divider.svg" width="100%" alt=""></p>
+<p align="center"><img src="https://raw.githubusercontent.com/balarge/balarge/main/divider.svg" width="100%" alt=""></p>
 
 ## Hakkımızda
 
@@ -46,7 +46,7 @@ pub const BAL_ARGE: Team = Team {
 };
 ```
 
-<p align="center"><img src="https://raw.githubusercontent.com/balarge/balarge/main/assets/divider.svg" width="100%" alt=""></p>
+<p align="center"><img src="https://raw.githubusercontent.com/balarge/balarge/main/divider.svg" width="100%" alt=""></p>
 
 ## Vizyon ve Misyon
 
@@ -74,7 +74,7 @@ pub const BAL_ARGE: Team = Team {
 | **Veri Analizi ve Kodlama** | Deneysel verilerin algoritmik olarak sınıflandırılması |
 | **Bilgi Paylaşımı** | Okul içi bilim seminerleri ve akran eğitimi |
 
-<p align="center"><img src="https://raw.githubusercontent.com/balarge/balarge/main/assets/divider.svg" width="100%" alt=""></p>
+<p align="center"><img src="https://raw.githubusercontent.com/balarge/balarge/main/divider.svg" width="100%" alt=""></p>
 
 ## Öne Çıkan Proje
 
@@ -96,7 +96,7 @@ pub const BAL_ARGE: Team = Team {
   <img src="https://skillicons.dev/icons?i=html,css,js,threejs,git,github&perline=6" alt="Teknolojiler">
 </p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/balarge/balarge/main/assets/divider.svg" width="100%" alt=""></p>
+<p align="center"><img src="https://raw.githubusercontent.com/balarge/balarge/main/divider.svg" width="100%" alt=""></p>
 
 ## Ekip Üyeleri
 
@@ -127,7 +127,7 @@ pub const BAL_ARGE: Team = Team {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=balarge&theme=github-dark&color=FEC214&line=FEC214&point=ffffff&area_color=FEC214&area=true&hide_border=true&bg_color=120422" alt="Aktivite Grafiği" width="100%">
 </p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/balarge/balarge/main/assets/divider.svg" width="100%" alt=""></p>
+<p align="center"><img src="https://raw.githubusercontent.com/balarge/balarge/main/divider.svg" width="100%" alt=""></p>
 
 ## Star Geçmişi
 
@@ -150,7 +150,7 @@ pub const BAL_ARGE: Team = Team {
   </picture>
 </p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/balarge/balarge/main/assets/divider.svg" width="100%" alt=""></p>
+<p align="center"><img src="https://raw.githubusercontent.com/balarge/balarge/main/divider.svg" width="100%" alt=""></p>
 
 ## İletişim
 
